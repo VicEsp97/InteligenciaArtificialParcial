@@ -1,0 +1,5 @@
+Nombre: Victor Ramiro Espinoza Salay
+Carné : 3190-15-6063
+Fecha del Examen: 01/03/2025
+Enlace al video explicativo: https://youtu.be/ZCeOpu6xP78
+Enlace al repositorio en GitHub o archivo en Drive: https://github.com/VicEsp97/InteligenciaArtificialParcial.git
